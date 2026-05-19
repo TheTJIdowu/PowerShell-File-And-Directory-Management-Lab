@@ -13,21 +13,21 @@ Simulation of File Management, Automation, Documentation, Backups, Inventory Exp
 - Mac</b> 
 
 <h2>Steps</h2>
--  Create Folder
-- Verify Location
-- Create department folders
-- Check Folders
-- Create Support Documents
-- Write Data On Support Documents
-- Copy Files For Backups
-- Move Files For Appropriate Departments
-- Rename Files
-- Find Specific Files
-- Find Large Files
-- Deletion Of Files
-- Bulk Rename Files
-- Export Directory Inventory
-- Create An Automated Cleanup Script
--
+1. Create Folder
+2. Verify Location
+3. Create department folders
+4. Check Folders
+5. Create Support Documents
+6. Write Data On Support Documents
+7. Copy Files For Backups
+8. Move Files For Appropriate Departments
+9. Rename Files
+10. Find Specific Files
+11. Find Large Files
+12. Deletion Of Files
+13. Bulk Rename Files
+14. Export Directory Inventory
+15.Create An Automated Cleanup Script
+
 
 
