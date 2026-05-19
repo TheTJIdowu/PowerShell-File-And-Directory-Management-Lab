@@ -13,7 +13,7 @@ Simulation of File Management, Automation, Documentation, Backups, Inventory Exp
 - Mac</b> 
 
 <h2>Steps</h2>
-* Create Folder
+-  Create Folder
 - Verify Location
 - Create department folders
 - Check Folders
