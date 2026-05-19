@@ -13,10 +13,14 @@ Simulation of File Management, Automation, Documentation, Backups, Inventory Exp
 - Mac</b> 
 
 <h2>Steps</h2>
-1. Create Folder
-2. Verify Location
-3. Create department folders
-4. Check Folders
+
+- Create Folder
+  
+- Verify Location
+  
+- Create department folders
+  
+- Check Folders
 5. Create Support Documents
 6. Write Data On Support Documents
 7. Copy Files For Backups
@@ -28,6 +32,5 @@ Simulation of File Management, Automation, Documentation, Backups, Inventory Exp
 13. Bulk Rename Files
 14. Export Directory Inventory
 15.Create An Automated Cleanup Script
-
 
 
