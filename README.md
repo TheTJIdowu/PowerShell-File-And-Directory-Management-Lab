@@ -66,6 +66,11 @@ Creation of department folders via PowerShell to curate any processes and inform
 <br>
 <img width="549" height="336" alt="Screenshot 2026-05-20 at 7 23 25 PM" src="https://github.com/user-attachments/assets/574a6443-cbc9-40c5-ab9b-80988fb39a34" />
 
+<h3>Check Folders</h3>
+Confirming creation of folders in the correct repository.
+<br>
+<br>
+<img width="519" height="143" alt="Screenshot 2026-05-20 at 7 33 40 PM" src="https://github.com/user-attachments/assets/61f31a9c-4a57-44cd-9e31-2bda3f0a29aa" />
 
 
 
