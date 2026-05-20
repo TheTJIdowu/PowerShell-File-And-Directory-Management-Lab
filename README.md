@@ -8,11 +8,11 @@ Simulation of File Management, Automation, Documentation, Backups, Inventory Exp
 
 - Powershell
 
-<h2>Operating Systems Used </h2>
+<h2>Operating Systems Used: </h2>
 
 - Mac</b> 
 
-<h2>Steps</h2>
+<h2>Steps:</h2>
 
 - Create Folder
   
@@ -44,4 +44,7 @@ Simulation of File Management, Automation, Documentation, Backups, Inventory Exp
   
 - Create An Automated Cleanup Script
 
+<h2>Stages:</h2>
+
+<h3>Create Folder</h3>
 
