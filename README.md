@@ -72,5 +72,11 @@ Confirming creation of folders in the correct repository.
 <br>
 <img width="519" height="143" alt="Screenshot 2026-05-20 at 7 33 40 PM" src="https://github.com/user-attachments/assets/61f31a9c-4a57-44cd-9e31-2bda3f0a29aa" />
 
+<h3>Create Support Documents</h3>
+Creation and appointing of documents in relation to their departments.
+<br>
+<br>
+<img width="554" height="331" alt="Screenshot 2026-05-20 at 7 41 38 PM" src="https://github.com/user-attachments/assets/f02de521-6218-4d18-8a78-d79f2163c948" />
+
 
 
