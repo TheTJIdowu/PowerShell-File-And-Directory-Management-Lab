@@ -49,10 +49,23 @@ Simulation of File Management, Automation, Documentation, Backups, Inventory Exp
 
 <h3>Create Folder</h3>
 
-<img width="148" height="217" alt="Screenshot 2026-05-20 at 7 16 07 PM" src="https://github.com/user-attachments/assets/a107e21d-0160-4d51-b7de-bf14fcf46b11" />
+Create the folder where the PowerShell Lab is going to be conducted.
+<br>
+<br>
+<img  width="148" height="217" alt="Screenshot 2026-05-20 at 7 16 07 PM" src="https://github.com/user-attachments/assets/a107e21d-0160-4d51-b7de-bf14fcf46b11" />
 
 <h3>Verify Location</h3>
+Verify the location of the folder via PowerShell on Terminal which is critical to ensure that no information is misplaced.
+<br>
+<br>
 <img width="398" height="164" alt="Screenshot 2026-05-20 at 7 16 50 PM" src="https://github.com/user-attachments/assets/e90a0e7b-8ecd-430a-8d1d-550ebd0fa7c4" />
+
+<h3>Create Department Folders</h3>
+Creation of department folders via PowerShell to curate any processes and information in their respective files. Created HR, IT and Finance deparment folders.
+<br>
+<br>
+<img width="549" height="336" alt="Screenshot 2026-05-20 at 7 23 25 PM" src="https://github.com/user-attachments/assets/574a6443-cbc9-40c5-ab9b-80988fb39a34" />
+
 
 
 
