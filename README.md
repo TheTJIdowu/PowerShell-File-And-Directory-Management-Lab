@@ -2,11 +2,12 @@
 Lab to display competency in organizing files, cleaning old files and automation of redundant tasks
 
 
-Simulation of File Management, Automation, Documentation, Backups, Inventory Exports and Repetitive Task Scripting.
+Simulation of File Management, Automation, Documentation, Backups, Inventory Exports and Repetitive Task Scripting via Terminal
 
 <h2>Environments and Technologies Used</h2>
 
-- Powershell
+- Terminal
+- PowerShell
 
 <h2>Operating Systems Used: </h2>
 
@@ -47,4 +48,11 @@ Simulation of File Management, Automation, Documentation, Backups, Inventory Exp
 <h2>Stages:</h2>
 
 <h3>Create Folder</h3>
+
+<img width="148" height="217" alt="Screenshot 2026-05-20 at 7 16 07 PM" src="https://github.com/user-attachments/assets/a107e21d-0160-4d51-b7de-bf14fcf46b11" />
+
+<h3>Verify Location</h3>
+<img width="398" height="164" alt="Screenshot 2026-05-20 at 7 16 50 PM" src="https://github.com/user-attachments/assets/e90a0e7b-8ecd-430a-8d1d-550ebd0fa7c4" />
+
+
 
