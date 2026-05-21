@@ -1,4 +1,4 @@
-<img width="546" height="107" alt="Screenshot 2026-05-21 at 1 39 24 PM" src="https://github.com/user-attachments/assets/dcc65284-0592-4d87-b250-4cd6be98b6f7" />
+
 # PowerShell-File-And-Directory-Management-Lab
 Lab to display competency in organizing files, cleaning old files and automation of redundant tasks
 
@@ -112,6 +112,31 @@ Method to obtain specific files in your repository
 <br>
 <img width="550" height="116" alt="Screenshot 2026-05-21 at 1 39 49 PM" src="https://github.com/user-attachments/assets/40f1290b-3057-47e5-854e-cacfa2e279ca" />
 
-<h3></h3>
+<h3>Find Largest Files</h3>
+Prompt to retrieve curate and obtain largest file in repo.
+First prompt logs numbers of files in order. Second prompt displays the largest in descending order.
+<br>
+<br>
+<img width="590" height="200" alt="Screenshot 2026-05-21 at 1 41 21 PM" src="https://github.com/user-attachments/assets/c204169c-5128-4009-aeef-f7fcc4268c74" />
+<br>
+<img width="581" height="376" alt="Screenshot 2026-05-21 at 1 43 26 PM" src="https://github.com/user-attachments/assets/ff123e73-584c-4592-bd9f-c4c82d0d6058" />
+
+<h3>Deletion of Files</h3>
+This prompt to enable the deletion of a file and verify its deletion, you can replace the * with the file name prior to .log to select the file you desire to delete.
+<br>
+<br>
+<img width="682" height="153" alt="Screenshot 2026-05-21 at 1 48 04 PM" src="https://github.com/user-attachments/assets/7793f0cb-91c5-452b-8832-bcbdd3f8189e" />
+
+<h3>Bulk Rename Files</h3>
+This prompt is the issue new files in bulk as well as rename them.
+<br>
+<br>
+<img width="616" height="357" alt="Screenshot 2026-05-21 at 1 49 47 PM" src="https://github.com/user-attachments/assets/557a8a03-8489-4717-9050-97c453e4ace8" />
+
+<h3>Export Directory Inventory</h3>
+Enabling the exportation of files in .csv which is ideal for auditing/documentation of processes.
+<br>
+<br>
+<img width="581" height="226" alt="Screenshot 2026-05-21 at 1 51 47 PM" src="https://github.com/user-attachments/assets/5e71906c-aa05-4a95-a1a4-82ce9c21b8dc" />
 
 
