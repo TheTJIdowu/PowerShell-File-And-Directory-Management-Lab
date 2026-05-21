@@ -139,4 +139,11 @@ Enabling the exportation of files in .csv which is ideal for auditing/documentat
 <br>
 <img width="581" height="226" alt="Screenshot 2026-05-21 at 1 51 47 PM" src="https://github.com/user-attachments/assets/5e71906c-aa05-4a95-a1a4-82ce9c21b8dc" />
 
+<h3>Create an Automated Cleanup Script</h3>
+Ideal for automation of tasks pertaining to Powershell regarding the curation and cleaning of a repo. Created cleanup file as well configured a log for post-cleanup
+<br>
+<br>
+<img width="532" height="158" alt="Screenshot 2026-05-21 at 2 00 28 PM" src="https://github.com/user-attachments/assets/ada25057-c834-46eb-8795-20dabd3ddf7d" />
+
+This concludes the PowerShell File and Directory Management Lab displaying deliverably of using of PowerShell via Terminal regarding use of files.
 
