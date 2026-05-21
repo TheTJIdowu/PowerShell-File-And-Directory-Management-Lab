@@ -79,3 +79,17 @@ Creation and appointing of documents in relation to their departments.
 <img width="554" height="331" alt="Screenshot 2026-05-20 at 7 41 38 PM" src="https://github.com/user-attachments/assets/f02de521-6218-4d18-8a78-d79f2163c948" />
 
 <h3>Write Data on Support Documents</h3>
+Added content to documents provisioning information such as Name, Issue and relation to particular departments.
+<br>
+<br>
+<img width="682" height="172" alt="Screenshot 2026-05-21 at 7 43 57 AM" src="https://github.com/user-attachments/assets/418627cb-ce1c-495d-a2c7-0ad29f20e784" />
+
+<h3>Copy Files For Backups</h3>
+Created backup of files to deter severe loss of data.
+<br>
+Creation of back up & Result:
+<img width="623" height="29" alt="Screenshot 2026-05-21 at 7 46 30 AM" src="https://github.com/user-attachments/assets/757dae28-38a6-4783-bc37-dced7f6cbf3a" />
+<br>
+<img width="598" height="123" alt="Screenshot 2026-05-21 at 7 46 54 AM" src="https://github.com/user-attachments/assets/6c119516-71ef-4c9a-8c64-a9f733fcb8b9" />
+
+
