@@ -1,3 +1,4 @@
+<img width="546" height="107" alt="Screenshot 2026-05-21 at 1 39 24 PM" src="https://github.com/user-attachments/assets/dcc65284-0592-4d87-b250-4cd6be98b6f7" />
 # PowerShell-File-And-Directory-Management-Lab
 Lab to display competency in organizing files, cleaning old files and automation of redundant tasks
 
@@ -107,4 +108,10 @@ Renamed file in HR department
 
 <h3>Find Specific Files</h3>
 Method to obtain specific files in your repository
+<br>
+<br>
+<img width="550" height="116" alt="Screenshot 2026-05-21 at 1 39 49 PM" src="https://github.com/user-attachments/assets/40f1290b-3057-47e5-854e-cacfa2e279ca" />
+
+<h3></h3>
+
 
