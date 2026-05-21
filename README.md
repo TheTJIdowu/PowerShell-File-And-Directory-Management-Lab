@@ -90,11 +90,21 @@ Created backup of files to deter severe loss of data.
 Creation of back up & Result:
 <img width="623" height="29" alt="Screenshot 2026-05-21 at 7 46 30 AM" src="https://github.com/user-attachments/assets/757dae28-38a6-4783-bc37-dced7f6cbf3a" />
 <br>
+<br>
 <img width="598" height="123" alt="Screenshot 2026-05-21 at 7 46 54 AM" src="https://github.com/user-attachments/assets/6c119516-71ef-4c9a-8c64-a9f733fcb8b9" />
 
 <h3>Move Files For Appropriate Departments</h3>
 Moved Budget document to HR
 <br>
+<br>
 <img width="594" height="173" alt="Screenshot 2026-05-21 at 7 54 15 AM" src="https://github.com/user-attachments/assets/c4100d08-17be-4a99-9714-dec74904f7f1" />
 
+<h3>Rename Files</h3>
+Renamed file in HR department
+<br>
+<br>
+<img width="594" height="166" alt="Screenshot 2026-05-21 at 7 59 54 AM" src="https://github.com/user-attachments/assets/2ad6535e-c2d5-4ece-a891-944bc12b2a58" />
+
+<h3>Find Specific Files</h3>
+Method to obtain specific files in your repository
 
